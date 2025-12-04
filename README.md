@@ -1,2 +1,2 @@
 # Go Interfaces
-Added and updated the readme..
+Added and updated the readme.
